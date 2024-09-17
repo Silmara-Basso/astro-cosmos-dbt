@@ -4,8 +4,3 @@
 
 See [dbt's documentation](https://github.com/dbt-labs/jaffle_shop) for more info.
 
-### Modifications
-
-This project has been modified from the original to highlight some of the features of Cosmos. Namely:
-
-- tags have been added to the models
